@@ -1,0 +1,35 @@
+문제: 줄을 삭제후 paste 하는 방법으로 순서대로 만드시요. (delete and paste)
+
+	1)  Roses are red,
+	2)  Mud is fun,
+	3)  Violets are blue,
+	4)  I have a car,
+	5)  Clocks tell time,
+	6)  Sugar is sweet
+	7)  And so are you.
+
+문제: 아래 1번 항목 처럼 모든 줄을 두줄씩으로 만드시요. (yank and paste)
+
+	1)  Roses are red,
+	1)  Roses are red,
+	2)  Mud is fun,
+	2)  Mud is fun,
+	3)  Violets are blue,
+	3)  Violets are blue,
+	4)  I have a car,
+	4)  I have a car,
+	5)  Clocks tell time,
+	5)  Clocks tell time,
+	6)  Sugar is sweet
+	6)  Sugar is sweet
+	7)  And so are you.
+	7)  And so are you.
+
+문제: 아래에서 3) 번 줄 뒤에 있는 33 줄을 삭제하시오.
+
+1) alpha *
+2) beta *
+3) charley *
+4) delta *
+5) echo *
+6) fox *

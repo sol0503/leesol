@@ -1,0 +1,6 @@
+제출 파일은 tax.c;testplan.txt;testresult.txt 
+
+별도의 배포 파일은 없습니다.
+
+문제파일은 문제설명_12631.txt 입니다.
+
